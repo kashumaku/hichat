@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chat-app-with-firebase/static/css/main.6db0e857.css",
+    "main.js": "/chat-app-with-firebase/static/js/main.7b761e0f.js",
+    "static/media/nochat.gif": "/chat-app-with-firebase/static/media/nochat.6f2bf275485fb05777d2.gif",
+    "index.html": "/chat-app-with-firebase/index.html",
+    "main.6db0e857.css.map": "/chat-app-with-firebase/static/css/main.6db0e857.css.map",
+    "main.7b761e0f.js.map": "/chat-app-with-firebase/static/js/main.7b761e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db0e857.css",
+    "static/js/main.7b761e0f.js"
+  ]
+}
