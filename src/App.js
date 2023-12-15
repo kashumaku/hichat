@@ -6,7 +6,7 @@ import Login from "./pages/Login";
 import CreateAccount from "./pages/CreateAccount";
 
 function App() {
-  const [userId, setUserId] = useState({})
+  const [userId, setUserId] = useState({}) //handles the user who is already logged in
   const [toggleMenu, setToggleMenu] = useState(false)
   const [toggleMessage, setToggleMessage] = useState(false)
   const [toggleFeeds, setToggleFeeds] = useState(true)
